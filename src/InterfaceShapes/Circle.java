@@ -1,4 +1,4 @@
-package dk.kea;
+package InterfaceShapes;
 
 public class Circle {
 
